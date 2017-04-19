@@ -125,4 +125,8 @@ ngx.say(url)
 ## TODO
 完整实现所有api，参考[阿里云OSS API文档](http://doc.oss.aliyuncs.com/)
 
-基本功能是没有问题的
+基本功能是没有问题的，欢迎使用
+
+如果你觉得不错，并在项目中使用到它，还可以向我捐献，鼓励鼓励我，金额不限
+
+<img src="http://yd4p.oss-cn-hangzhou.aliyuncs.com/wxpay.png" width="500"/>
